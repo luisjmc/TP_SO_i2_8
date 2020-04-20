@@ -1,0 +1,36 @@
+    1  git version
+    2  git clone luis@Luis-PC MINGW64 ~/Documents
+    3  git clone https://github.com/luisjmc/TP_SO_i2_8.git
+    4  history
+    5  ls
+    6  tree
+    7* 
+    8  git clone https://github.com/luisjmc/TP_SO_i2_8.git.git
+    9  pwd
+   10  ls -la
+   11  cd TP_SO_i2_8/
+   12  ls -l
+   13  git add NuevoDato.txt
+   14  ls 
+   15  ls -l
+   16  git status
+   17  echo "" > NuevoDato.txt
+   18  ls -l
+   19  ls -l
+   20  echo > NuevoDato.txt
+   21  > NuevoDato.txt
+   22  git status
+   23  git add -a
+   24  git add -A
+   25  status
+   26  git status
+   27  git commit -m"NuevoDato creado"
+   28  git status
+   29* 
+
+   37  git config
+   38  git config -l
+   39  git status
+   40  git commit -m"NuevoDato creado"
+   41  git push origin master
+   42  history > HistorialDeBeta.txt
